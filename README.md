@@ -67,21 +67,21 @@ This project analyzes employee attrition patterns using Power BI and HR analytic
 - Business Intelligence Reporting
 - Data Visualization
 
----
+--- 
 
-## 📷 Dashboard Preview
+## Dashboard Preview
 
 ### Executive Summary
 
-![Executive Summary](Dashboard_Screenshots/Page1_Overview.png)
+![Executive Summary](Page1_Overview.png)
 
 ### Employee Demographics
 
-![Employee Demographics](Dashboard_Screenshots/Page2_Demographics.png)
+![Employee Demographics](Page2_Demographics.png)
 
 ### Attrition Risk Analysis
 
-![Attrition Risk Analysis](Dashboard_Screenshots/Page3_Attrition_Risk.png)
+![Attrition Risk Analysis](Page3_Attrition_Risk.png)
 
 ---
 
