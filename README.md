@@ -1,69 +1,93 @@
-# HR-Attrition-Analysis-Dashboard
+# 📊 HR Attrition Analysis Dashboard
 
-**Project Overview**
+## 📌 Project Overview
 
 This project analyzes employee attrition patterns using Power BI and HR analytics techniques. The dashboard provides insights into workforce demographics, employee turnover trends, and key factors contributing to attrition.
 
-**Tools Used**
-Power BI
-DAX
-Microsoft Excel / CSV
-Data Visualization
-HR Analytics
+---
 
-**Dashboard Pages**
+## 🛠️ Tools Used
 
-**Executive Summary**
-Total Employees
-Active Employees
-Attrition Rate
-Attrition by Department
-Attrition by Gender
-Attrition by Age Group
+- Power BI
+- DAX
+- Microsoft Excel / CSV
+- Data Visualization
+- HR Analytics
 
-**Employee Demographics**
+---
 
-Education Distribution
-Income Distribution
-Gender by Department
-Job Role Distribution
-Age vs Monthly Income
+## 📄 Dashboard Pages
 
-**Attrition Risk Analysis**
-Overtime Impact
-Salary Impact
-Job Satisfaction Analysis
-Work-Life Balance Analysis
-Business Travel Impact
-Attrition by Years at Company
+### 1️⃣ Executive Summary
 
-**Key Insights**
+- Total Employees
+- Active Employees
+- Attrition Rate
+- Attrition by Department
+- Attrition by Gender
+- Attrition by Age Group
 
-Employees working overtime showed higher attrition rates.
-Lower salary bands experienced greater employee turnover.
-Job satisfaction and work-life balance significantly influenced retention.
-Employees with frequent business travel demonstrated increased attrition risk.
-Most attrition occurred within the early years of employment.
+### 2️⃣ Employee Demographics
 
-**Skills Demonstrated**
+- Education Distribution
+- Income Distribution
+- Gender by Department
+- Job Role Distribution
+- Age vs Monthly Income
 
-Data Cleaning
-Data Modeling
-DAX Measures
-HR Analytics
-Dashboard Design
-Business Intelligence Reporting
-Data Visualization
+### 3️⃣ Attrition Risk Analysis
 
-**Author**
+- Overtime Impact
+- Salary Impact
+- Job Satisfaction Analysis
+- Work-Life Balance Analysis
+- Business Travel Impact
+- Attrition by Years at Company
 
-Sachin
-Aspiring Data Analyst
+---
 
-## Dashboard Preview
+## 🔍 Key Insights
 
-![Overview](Dashboard_Screenshots/Page1_Overview.png)
+- Employees working overtime showed higher attrition rates.
+- Lower salary bands experienced greater employee turnover.
+- Job satisfaction significantly influenced retention.
+- Better work-life balance reduced attrition risk.
+- Employees with frequent business travel demonstrated increased attrition.
+- Most attrition occurred within the first few years of employment.
 
-![Demographics](Dashboard_Screenshots/Page2_Demographics.png)
+---
 
-![Attrition Risk](Dashboard_Screenshots/Page3_Attrition_Risk.png)
+## 💡 Skills Demonstrated
+
+- Data Cleaning
+- Data Modeling
+- DAX Measures
+- HR Analytics
+- Dashboard Design
+- Business Intelligence Reporting
+- Data Visualization
+
+---
+
+## 📷 Dashboard Preview
+
+### Executive Summary
+
+![Executive Summary](Dashboard_Screenshots/Page1_Overview.png)
+
+### Employee Demographics
+
+![Employee Demographics](Dashboard_Screenshots/Page2_Demographics.png)
+
+### Attrition Risk Analysis
+
+![Attrition Risk Analysis](Dashboard_Screenshots/Page3_Attrition_Risk.png)
+
+---
+
+## 👨‍💻 Author
+
+**Sachin Jangra**
+
+Aspiring Data Analyst | Power BI | SQL | Excel | Python
+
